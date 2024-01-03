@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/MainMenu.unity
+    guid: 6b8dc50bbedee8947a1100d7ccdc4dcd
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level selector.unity
+    guid: ca31e82c7a8f78143b65c898e6e792b2
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/TUTURIAL.unity
+    guid: 412d2d8c36761e645858c28938f1e9b0
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/shopp.unity
+    guid: 134e0f05165849f46b5c7cb85dd969ec
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 1/Lose scene.unity
+    guid: cb8f646482547664aa87e0e58dbe644a
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 1/Victory scene.unity
+    guid: 43373c109ee527e47ade584067b8b504
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 1/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 2/Lose scene 2.unity
+    guid: b9c59f0c7741d2b42903e62c3c0247d5
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 2/Victory scene 2.unity
+    guid: ac43e753f6b010147a5f07414b0eacff
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 2/Level2.unity
+    guid: 41fce17890ca0af43b65f8d7d8ea56c0
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 3/lose level 3.unity
+    guid: efa24aa48a716734ab466764d9f5aa5c
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 3/victory level 3.unity
+    guid: 0a68b8b7560c55042981aff889448f1c
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 3/Level 3.unity
+    guid: 2a96cff2014b13b4bb81f16803914e73
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 4/Losee.unity
+    guid: 56f9d6a704b9b2c41b0377ca5594b0f8
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 4/Victory.unity
+    guid: 4e82aa2a44a6ad344b2e5a9b062b3b0d
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 4/Level 4.unity
+    guid: 35724ea9d43dd6241b5f2e19baa0a83c
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 1/Level 1 speedrun.unity
+    guid: f80b4921e99b4ea419f7c381432392a9
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 2/Level 2 speedrun.unity
+    guid: 1146dbdefbb685d448b7c9a6b4a686c9
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 3/Speedrun Level 3.unity
+    guid: f1a566ac4cdb20b45bf57ed66bbc8da0
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/Level 4/Level 4 speedrun.unity
+    guid: 4b9a3489f8c83e94bb9e684f64a5862a
+  - enabled: 1
+    path: Assets/Basics to start making level/Scenes/SpeedrunVictory.unity
+    guid: 24cbc5688c3cc754c82f556b60c5ddd9
+  m_configObjects: {}
